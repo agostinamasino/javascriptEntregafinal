@@ -105,7 +105,7 @@ btnVaciar.addEventListener("click", () => {
 
 btnComprar.addEventListener("click", () => {
     if (carrito.length === 0) {
-        Swal.fire({ icon: 'error', title: 'Oops...', text: 'El carrito está vacío', confirmButtonColor: '#9F7AEA' });
+        Swal.fire({ icon: 'error', title: 'Error...', text: 'El carrito está vacío', confirmButtonColor: '#9F7AEA' });
         return;
     }
 

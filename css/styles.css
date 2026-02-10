@@ -4,7 +4,7 @@ body { background-color: #f8f9fa; color: #333; padding: 40px 20px; }
 
 header { text-align: center; margin-bottom: 50px; }
 header h1 { font-size: 2.5rem; font-weight: 700; color: #1a202c; }
-header h1 span { color: #4c51bf; } /* Azul tech original */
+header h1 span { color: #4c51bf; } 
 .subtitulo { color: #718096; font-size: 0.9rem; text-transform: uppercase; font-weight: 600; letter-spacing: 1.5px; }
 
 .contenedor-principal { display: grid; grid-template-columns: 2fr 1fr; gap: 40px; align-items: start; }
