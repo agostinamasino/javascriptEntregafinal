@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Mouse Wireless", "precio": 3500, "imagen": "./img/mouse.jpg"},
+    { "id": 2, "nombre": "Teclado Slim", "precio": 8500,"imagen": "./img/teclado.jpg" },
+    { "id": 3, "nombre": "Monitor Curvo", "precio": 42000, "imagen": "./img/monitor.jpg" },
+    { "id": 4, "nombre": "AirPods Pro", "precio": 35000, "imagen": "./img/airpods.jpg" },
+    { "id": 5, "nombre": "Dock Station", "precio": 12000, "imagen": "./img/dock.jpg" },
+    { "id": 6, "nombre": "Webcam HD", "precio": 6500, "imagen": "./img/camara.jpg" }
+]
